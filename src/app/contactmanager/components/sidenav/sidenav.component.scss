@@ -1,0 +1,17 @@
+.sidenav-container {
+    flex: 1;
+    width: 95%;
+    min-width: 95%;
+    height: 95%;
+    min-height: 95%;
+    margin: 10px;
+    border: 1px solid rgb(67, 0, 252);
+  }
+
+  .wrapper {
+      margin:50px;
+  }
+
+  mat-drawer {
+      width: 200px;
+  }
